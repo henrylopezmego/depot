@@ -24,5 +24,5 @@ panic. Tackle just about any API challenge with more than a dozen
 open-source utilities and common programming patterns you can apply
 right away.
 </p>},
-                image_url: 'maapis.jpg',
+                image_url: 'https://th.bing.com/th/id/OIP.mO3ElriVNzdkEWwiSf10QQHaI5?rs=1&pid=ImgDetMain',
                 price: 24.95)

@@ -3,11 +3,11 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: https://th.bing.com/th/id/OIP.mO3ElriVNzdkEWwiSf10QQHaI5?rs=1&pid=ImgDetMain.gif
   price: 9.99
 
 two:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: https://th.bing.com/th/id/OIP.mO3ElriVNzdkEWwiSf10QQHaI5?rs=1&pid=ImgDetMain.gif
   price: 9.99
